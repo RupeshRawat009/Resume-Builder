@@ -206,7 +206,8 @@ h1 {
     position: relative;
     bottom: 810px;
     left: 350px;
-    font-size: 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
     
     margin-right: 500px;
 }
@@ -214,80 +215,81 @@ h1 {
     position: relative;
     bottom: 800px;
     left: 350px;
-    margin-right: 850px;
+    margin-right: 700px;
     margin-top: 10px;
     margin-bottom: 20px;
     line-height: 30px;
-    font-size: 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .peacockimg{
     position: relative;
     bottom: 850px;
-    left: 980px;
-    border: solid black;
-    padding-left: 20px;
-    padding-right:20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    width:300px ;
-    height: 200px;
-    
-
-
+    left: 1000px;
+   
+   padding-right: 10px;
+   padding-bottom: 10px;
+    width:270px ;
+    height: 190px;
     
 }
+
+
+
 .thirdpara{
 
     position: relative;
-    bottom:1030px;
+    bottom:980px;
     left: 350px;
-    margin-right: 880px;
+    margin-right: 680px;
     margin-top: 10px;
     margin-bottom: 20px;
     line-height: 30px;
-    font-size: 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .fourpara{
 
     position: relative;
-    bottom:1030px;
+    bottom:980px;
     left: 340px;
-    margin-right: 880px;
+    margin-right: 680px;
     margin-top: 10px;
     margin-bottom: 20px;
     line-height: 30px;
-    font-size: 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .peacockimg2{
     position: relative;
-    bottom: 1300px;
+    bottom: 1250px;
     left: 980px;
-    border: solid black;
+    
     padding-left: 20px;
     padding-right:20px;
-    padding-top: 20px;
+   
     padding-bottom: 40px;
-    width:300px ;
-    height: 200px;
+    
     
 }
 .fivepara{
     position: relative;
-    bottom:1300px;
+    bottom:1150px;
     left: 340px;
-    margin-right: 880px;
+    margin-right: 680px;
     margin-top: 10px;
     margin-bottom: 20px;
     line-height: 30px;
-    font-size: 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .peahen{
     position: relative;
     bottom: 850px;
     left: 650px;
-    border: solid black;
+ 
     padding-left: 20px;
     padding-right:20px;
     padding-top: 20px;
@@ -297,22 +299,20 @@ h1 {
 }
 .sixpara{
     position: relative;
-    bottom:1750px;
+    bottom:1590px;
     left: 340px;
-    margin-right: 880px;
+    margin-right: 680px;
     margin-top: 10px;
     margin-bottom: 20px;
     line-height: 30px;
-    font-size: 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .egg{
     position: relative;
     bottom: 850px;
     left: 650px;
-    border: solid black;
-    padding-left: 20px;
-    padding-right:20px;
-    padding-top: 20px;
+   
     padding-bottom: 250px;
     width:300px ;
     height: 200px;
@@ -321,21 +321,23 @@ h1 {
     position: relative;
     bottom:2450px;
     left: 340px;
-    margin-right: 880px;
+    margin-right: 680px;
     margin-top: 10px;
     margin-bottom: 20px;
     line-height: 30px;
-    font-size: 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
 .sevenpara{
     position: relative;
-    bottom:2800px;
+    
     left: 340px;
-    margin-right: 880px;
+    margin-right: 680px;
     margin-top: 10px;
     margin-bottom: 20px;
     line-height: 30px;
-    font-size: 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
 }
